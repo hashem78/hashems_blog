@@ -1,4 +1,5 @@
 theme = "FixIt"
+baseUrl = "https://hashem78.github.io/hashems_blog"
 
 [menu]
   [[menu.main]]
